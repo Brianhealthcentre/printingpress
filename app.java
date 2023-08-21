@@ -1,2 +1,2 @@
 java application
-ready for depployment
+ready for deployment
